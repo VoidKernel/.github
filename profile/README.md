@@ -201,10 +201,6 @@ At **VoidKernel**, we're passionate about crafting exceptional software that pus
 
 ## 📜 License
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
 This organization and its projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
