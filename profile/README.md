@@ -251,47 +251,6 @@ At **VoidKernel**, we're passionate about crafting exceptional software that pus
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 📋 Roadmap
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3>✅ Completed</h3>
-        <p>🎯 Establish organization and core values</p>
-        <p>🌟 Create founding team and governance structure</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>🚀 In Progress</h3>
-        <p>🔥 Launch first major open-source project</p>
-        <p>🤝 Build community of 100+ contributors</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h3>🎯 Planned</h3>
-        <p>📱 Develop cross-platform tools and frameworks</p>
-        <p>🌍 Expand global reach and partnerships</p>
-      </td>
-      <td align="center" width="50%">
-        <h3>� Future Vision</h3>
-        <p>�🎓 Create educational resources and tutorials</p>
-        <p>🏆 Host first VoidKernel hackathon</p>
-      </td>
-    </tr>
-  </table>
-  
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ## 📜 License
 
 <div align="center">
