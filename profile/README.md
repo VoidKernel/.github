@@ -201,10 +201,6 @@ At **VoidKernel**, we're passionate about crafting exceptional software that pus
 This organization and its projects are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=In%20the%20void,%20we%20find%20infinite%20possibilities&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
-</div>
-
-<div align="center">
   
   <img src="https://komarev.com/ghpvc/?username=VoidKernel&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   
@@ -224,4 +220,8 @@ This organization and its projects are licensed under the MIT License - see the 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=🌟+Don't+forget+to+star+our+repositories!+🌟;⚡+Join+us+in+building+the+future!+⚡;🚀+Open+Source%2C+Endless+Possibilities!+🚀" alt="Footer Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=In%20the%20void,%20we%20find%20infinite%20possibilities&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </div>
