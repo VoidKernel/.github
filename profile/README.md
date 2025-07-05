@@ -60,37 +60,6 @@ At **VoidKernel**, we're passionate about crafting exceptional software that pus
   
 </div>
 
-## 🎨 Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3>🌟 Project Alpha</h3>
-        <p>A revolutionary web application that transforms how developers collaborate</p>
-        <a href="#"><img src="https://img.shields.io/badge/Status-In%20Development-orange?style=flat-square"></a>
-      </td>
-      <td>
-        <h3>⚡ Project Beta</h3>
-        <p>Lightning-fast CLI tool for modern development workflows</p>
-        <a href="#"><img src="https://img.shields.io/badge/Status-Planning-blue?style=flat-square"></a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <h3>🔮 Project Gamma</h3>
-        <p>AI-powered code analysis and optimization platform</p>
-        <a href="#"><img src="https://img.shields.io/badge/Status-Research-purple?style=flat-square"></a>
-      </td>
-      <td>
-        <h3>🎯 Project Delta</h3>
-        <p>Cross-platform mobile development framework</p>
-        <a href="#"><img src="https://img.shields.io/badge/Status-Concept-red?style=flat-square"></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## 🤝 Join Our Community
 
 We're always looking for passionate developers, designers, and contributors to join our mission!
@@ -116,11 +85,32 @@ We're always looking for passionate developers, designers, and contributors to j
 ## 📊 Organization Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VoidKernel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="VoidKernel's GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VoidKernel&layout=compact&theme=radical" alt="Top Languages" />
+  
+  ### 🚀 Growing Together
+  
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🌟 Open Source Projects</h3>
+        <p>Building the future, one commit at a time</p>
+      </td>
+      <td align="center">
+        <h3>👥 Community Members</h3>
+        <p>Passionate developers from around the world</p>
+      </td>
+      <td align="center">
+        <h3>💡 Innovation Focus</h3>
+        <p>Cutting-edge solutions for modern challenges</p>
+      </td>
+    </tr>
+  </table>
+  
+  <div style="margin-top: 20px;">
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Organization Status" />
+    <img src="https://img.shields.io/badge/Founded-2025-blue?style=for-the-badge" alt="Founded" />
+    <img src="https://img.shields.io/badge/Focus-Open%20Source-orange?style=for-the-badge" alt="Focus" />
+  </div>
+  
 </div>
 
 ## 🎖️ Our Values
