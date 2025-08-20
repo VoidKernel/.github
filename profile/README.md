@@ -91,64 +91,6 @@
 4. **Push** to the branch (`git push origin feature/amazing-feature`)
 5. **Open** a Pull Request
 
-## 📊 Organization Stats
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&text=Growing%20Together&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=35" />
-</div>
-
-<div align="center">
-  
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80"><br>
-        <h3>🌟 Open Source Projects</h3>
-        <p>Building the future, one commit at a time</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="80"><br>
-        <h3>👥 Community Members</h3>
-        <p>Passionate developers from around the world</p>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-        <h3>💡 Innovation Focus</h3>
-        <p>Cutting-edge solutions for modern challenges</p>
-      </td>
-    </tr>
-  </table>
-  
-  <div style="margin-top: 20px;">
-    <img src="https://img.shields.io/badge/🚀_Status-Active-brightgreen?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B" alt="Organization Status" />
-    <img src="https://img.shields.io/badge/⭐_Founded-2025-blue?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Founded" />
-    <img src="https://img.shields.io/badge/🌟_Focus-Open%20Source-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=45B7D1" alt="Focus" />
-  </div>
-  
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 📞 Connect With Us
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
-<div align="center">
-  
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF6B6B)](https://github.com/VoidKernel)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=4ECDC4)](https://twitter.com/VoidKernel)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=45B7D1)](https://linkedin.com/company/voidkernel)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=9B59B6)](https://discord.gg/voidkernel)
-  
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
 
 ## 📜 License
 
