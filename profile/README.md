@@ -21,25 +21,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="800">
 </div>
 
-
-## 🎯 Our Mission
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Open%20Code,%20Open%20Mind&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
-</div>
-
-> **"Open Code, Open Mind"** - We believe in the power of open-source software to drive innovation, foster collaboration, and create solutions that benefit everyone.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-At **VoidKernel**, we're passionate about crafting exceptional software that pushes the boundaries of what's possible. Our organization serves as a hub for developers, innovators, and dreamers who share our vision of open-source excellence.
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
 ## 🌟 What We Do
 
 
@@ -63,33 +44,6 @@ At **VoidKernel**, we're passionate about crafting exceptional software that pus
       </td>
     </tr>
   </table>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
-
-## 🛠️ Our Tech Stack
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-</div>
-
-<div align="center">
-  
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,react,nodejs,docker,git,github,vscode,figma,aws&theme=dark" />
-  
-  <br><br>
-  
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=FF6B6B)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=4ECDC4)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=45B7D1)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=9B59B6)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FF6B6B)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=4ECDC4)
-  ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=45B7D1)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=9B59B6)
-  
 </div>
 
 <div align="center">
