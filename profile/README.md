@@ -2,7 +2,7 @@
 
 # VoidKernel
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E3440&center=true&vCenter=true&width=600&lines=Exploring+Possibilities;Learning+Through+Collaboration;Building+Real+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F3440&center=true&vCenter=true&width=600&lines=Exploring+Possibilities;Learning+Through+Collaboration;Building+Real+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -33,7 +33,7 @@ Our organization serves as a learning environment where members can:
 
 <div align="center">
 
-| 🔧 Software Development | 🧪 Learning & Exploration | 🤝 Open Collaboration |
+|  Software Development |  Learning & Exploration |  Open Collaboration |
 |:----------------------:|:------------------------:|:---------------------:|
 | Building practical applications and tools that address real-world challenges | Experimenting with new technologies in a supportive environment | Fostering an inclusive community for developers of all levels |
 
@@ -45,7 +45,7 @@ Our organization serves as a learning environment where members can:
 
 We welcome contributions from developers interested in learning and collaboration.
 
-### 🚀 Quick Start
+###  Quick Start
 
 ```bash
 # Fork the repository
@@ -64,20 +64,20 @@ git push origin feature/your-feature-name
 # Open a Pull Request
 ```
 
-### 💡 Ways to Contribute
+###  Ways to Contribute
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-**🐛 Report Issues**
+** Report Issues**
 
 Help us improve by identifying bugs
 
 </td>
 <td width="25%" align="center">
 
-**📖 Documentation**
+** Documentation**
 
 Contribute to guides and docs
 
@@ -104,12 +104,12 @@ Share ideas and insights
 ## Project Principles
 
 ```
-┌─────────────────────────────────────────────┐
+┌───────────────────────────────────────────────────┐
 │ Quality    → Well-documented and maintainable code
 │ Openness   → Open source, community-driven
 │ Learning   → Growth opportunities for all
 │ Respect    → Professional, inclusive environment
-└─────────────────────────────────────────────┘
+└───────────────────────────────────────────────────┘
 ```
 
 ---
